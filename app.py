@@ -109,5 +109,5 @@ st.bar_chart(
 
 # 8. Thông tin người tạo
 st.divider()
-st.caption("Người tạo: [Họ tên của bạn] | MSSV: [MSSV của bạn]")
+st.caption("Người tạo: [Nguyễn Anh Khoa] | MSSV: [052208003771]")
 
